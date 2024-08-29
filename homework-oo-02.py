@@ -8,6 +8,7 @@ class Book:
 
     @name.setter
     def name(self, value):
+        # Test Comment for Git
         self.__name = value.lower()
 
 
