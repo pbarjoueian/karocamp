@@ -1,0 +1,6 @@
+firstname  lastname age major 
+peyman         barjoueian   33   CS
+
+
+127.0.0.1
+localhost
