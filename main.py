@@ -1,6 +1,8 @@
 from typing import Dict, List
+
 # from pprint import pprint
 # from datetime import datetime
+
 
 # persons = [
 #     {"first_name": "Peyman", "last_name": "barjoueian", "age": 1370},
@@ -118,7 +120,6 @@ q
 # file.write("hello\n")
 # file.write("world\n")
 # file.close()
-
 
 
 # import urllib.request
